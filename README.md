@@ -36,7 +36,7 @@ Apart from many other labeling software, Supervisely lets you work with your vid
 
 To archive this, we designed a video player, capable of handling hours-long videos, yet precisely switching between individual frames right in your web browser.
 
-<img src=<img src="https://user-images.githubusercontent.com/106374579/173790433-a90f1fc6-a020-4c7c-8106-a9913a498ef9.png"/>
+<img src="https://user-images.githubusercontent.com/106374579/173790433-a90f1fc6-a020-4c7c-8106-a9913a498ef9.png"/>
 
 A single one-hour video contains about a hundred thousand frames. Cutting such a video into individual images has countless disadvantages, comparing to our approach:
 
