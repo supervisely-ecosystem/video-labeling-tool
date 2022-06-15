@@ -151,7 +151,7 @@ While AI tracking algorithms can be of incredible help, there is still a lot of 
 Apart from usual tools like rectangle or brush, Supervisely comes with “smart” labeling tools based on a collection of class-agnostic neural networks that can be further trained on your data.
 
 
-[Learn more ➡️](hhttps://supervise.ly/labeling-automation/ai-assisted-labeling)
+[Learn more ➡️](https://supervise.ly/labeling-automation/ai-assisted-labeling)
 
 <img src="https://user-images.githubusercontent.com/12828725/173544099-d8c273d0-a31d-4455-b83e-8f3d8cd3d0a4.gif"/>
 
