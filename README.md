@@ -4,6 +4,7 @@
 ## A complete solution for video annotation
 
 Label hours-long videos without cutting them into images. In your browser, with multi-track timeline, built-in object tracking and segments tagging tools. [Learn more ➡️](https://supervise.ly/labeling-toolbox/videos)
+
 [![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/image-labeling-tool-v2)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
 [![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=views&label=views)](https://supervise.ly)
