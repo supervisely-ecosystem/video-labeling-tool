@@ -124,3 +124,19 @@ Live transcoding  |  Support of CDNs |   Cache & preloading
 :---------------:|:-----------------:|:-----------------:
 Browsers doesn’t support formats like avi or mov, but Supervisely does with on-fly video stream transcoding.  <img src="https://user-images.githubusercontent.com/106374579/173807234-ade60f0b-c61c-4669-9272-b44176b6831c.png" width="auto" height="100"/> |  Achieve millisecond loading timings with Cloudflare, Amazon CloudFront or Google Cloud CDN. <img src="https://user-images.githubusercontent.com/106374579/173807617-db6711dc-04ce-4a92-b7df-d0cee4dac07f.png" width="auto" height="100"/>| We have various settings to enable labeling even on slow computers and slow internet connection.<img src="https://user-images.githubusercontent.com/106374579/173807705-c4b1908f-e82c-4dd6-a33a-c38018a73aac.png" width="auto" height="100"/> 
 
+</div>
+
+<div align="center" markdown>
+
+### FEATURES
+# All the right tools for PROs
+While AI tracking algorithms can be of incredible help, there is still a lot of manual work to do, and we have introduced various features for you.
+
+`Hotkeys`  |  `Brightness / contrast` 
+:---------------:|:-----------------:
+<img src="https://user-images.githubusercontent.com/106374579/173810259-312629a9-3f73-4596-a209-0f0756af0a78.gif" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173810462-34d96985-1e99-4691-bac4-9f768e2a5980.gif" width="500" height="auto"/>
+
+`Multi-camera support`  |  `Multi-stream videos` | `Restore mode` 
+:---------------:|:-----------------:|:-----------------:
+<img src="https://user-images.githubusercontent.com/106374579/173810621-57f4f75b-bdb0-4c59-809e-f804937de93b.jpeg" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173810768-d01e18e3-d2f4-4b0f-8d8e-f78dc08b41a9.jpeg" width="500" height="auto"/>|  <img src="https://user-images.githubusercontent.com/106374579/173811049-704f6754-9cc2-4448-bafa-42bf2597aa43.jpeg" width="500" height="auto"/>
+
