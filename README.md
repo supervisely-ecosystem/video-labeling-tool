@@ -36,11 +36,11 @@ Apart from many other labeling software, Supervisely lets you work with your vid
 
 To archive this, we designed a video player, capable of handling hours-long videos, yet precisely switching between individual frames right in your web browser.
 
-## 24 FPS × 60 SECS × 60 MINS = 86,400 FRAMES IN 1H
+<img src=<img src="https://user-images.githubusercontent.com/106374579/173790433-a90f1fc6-a020-4c7c-8106-a9913a498ef9.png"/>
 
-A single one-hour video contains about a hundred thousand frames. Cutting such a video into individual images has countless disadvantages, comparing to our approach
+A single one-hour video contains about a hundred thousand frames. Cutting such a video into individual images has countless disadvantages, comparing to our approach:
 
-
+<img src="https://user-images.githubusercontent.com/106374579/173795209-6d276798-320f-4aa6-974f-e45acbc84de7.png"/>
 
 ## Timeline panel keeps you focused on labeling, not roaming around frames
 
@@ -61,4 +61,23 @@ Locate one or multiple objects of interest in each frame of your videos with bui
 
 Choose between carefully picked state-of-the-art trackers or integrate your own algorithm without any special knowledge.
 
-<img src= https://user-images.githubusercontent.com/106374579/173787097-c0696cfa-3df7-4467-a3b4-35d64e56cdb3.gif/>
+</div>
+
+
+`Top AI tracking`  |  `Clone, interpolate and more` 
+:---------------:|:-----------------:
+<img src="https://user-images.githubusercontent.com/106374579/173787097-c0696cfa-3df7-4467-a3b4-35d64e56cdb3.gif" width="500" height="auto"/>  |   <img src="https://user-images.githubusercontent.com/106374579/173788099-73f23308-16b1-40c5-ba6f-c4689905ce40.png" width="500" height="auto" /> 
+
+ `Train tracking AI` | 
+ :---------------:
+<img src="https://user-images.githubusercontent.com/106374579/173790022-d3a05422-4247-44fd-8b7a-5459524d4fcf.gif" width="500" height="auto"/>  
+</div>
+
+
+<div align="center" markdown>
+
+## Interactive instance segmentation tracking
+
+Choose between carefully picked state-of-the-art trackers or integrate your own algorithm without any special knowledge.
+
+<img src="https://user-images.githubusercontent.com/106374579/173797415-660478f3-d948-4483-b579-0a93d26313d1.gif"/>  
