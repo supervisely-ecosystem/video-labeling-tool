@@ -142,3 +142,17 @@ While AI tracking algorithms can be of incredible help, there is still a lot of 
 :---------------:|:-----------------:|:-----------------:
 <img src="https://user-images.githubusercontent.com/106374579/173810621-57f4f75b-bdb0-4c59-809e-f804937de93b.jpeg" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173810768-d01e18e3-d2f4-4b0f-8d8e-f78dc08b41a9.jpeg" width="500" height="auto"/>|  <img src="https://user-images.githubusercontent.com/106374579/173811049-704f6754-9cc2-4448-bafa-42bf2597aa43.jpeg" width="500" height="auto"/>
 
+</div>
+<div align="center" markdown>
+
+### SMART TOOLS
+# Interactive AI assisted labeling
+
+Apart from usual tools like rectangle or brush, Supervisely comes with “smart” labeling tools based on a collection of class-agnostic neural networks that can be further trained on your data.
+
+
+[Learn more ➡️](hhttps://supervise.ly/labeling-automation/ai-assisted-labeling)
+
+<img src="https://user-images.githubusercontent.com/12828725/173544099-d8c273d0-a31d-4455-b83e-8f3d8cd3d0a4.gif"/>
+
+</div>
