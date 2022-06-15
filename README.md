@@ -70,7 +70,7 @@ Choose between carefully picked state-of-the-art trackers or integrate your own 
 
  `Train tracking AI` | 
  :---------------:
-<img src="https://user-images.githubusercontent.com/106374579/173790022-d3a05422-4247-44fd-8b7a-5459524d4fcf.gif" width="500" height="auto"/>  
+<img src="https://user-images.githubusercontent.com/106374579/173790022-d3a05422-4247-44fd-8b7a-5459524d4fcf.gif" width="500" height="auto" />  
 </div>
 
 
@@ -81,3 +81,46 @@ Choose between carefully picked state-of-the-art trackers or integrate your own 
 Choose between carefully picked state-of-the-art trackers or integrate your own algorithm without any special knowledge.
 
 <img src="https://user-images.githubusercontent.com/106374579/173797415-660478f3-d948-4483-b579-0a93d26313d1.gif"/>  
+
+
+## Thought-out in every detail
+
+While AI tracking algorithms can be of incredible help, there is still a lot of manual work to do, and we have introduced various features for you.
+
+
+`1000+ objects per frame`  |  `Copy and paste objects between frames` 
+:---------------:|:-----------------:
+<img src="https://user-images.githubusercontent.com/106374579/173798674-8bb7ba45-5d11-414f-9858-f141c2fa7525.gif" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173802646-387fdb44-cb15-4646-90c2-388cb084a21a.gif" width="500" height="auto"/>
+
+`Auto-clone selected object`  |  `Color highlighting of IDs` 
+:---------------:|:-----------------:
+<img src="https://user-images.githubusercontent.com/106374579/173803297-6e1b03ec-9506-40b6-bb75-547f999ffec3.gif" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173803849-c31bc5a6-5bdf-43c9-843c-726b19b23905.gif" width="500" height="auto"/>
+
+</div>
+
+<div align="center" markdown>
+
+### DESIGNED FOR TAGGING
+# Tagging of video segments
+Video labeling does not end with object tracking and instance segmentation: we provide an essential toolset for video tagging of frames with various information, such as “what’s going on here”.
+
+`Simple tag management with video timeline`  |  `Property tags` 
+:---------------:|:-----------------:
+<img src="https://user-images.githubusercontent.com/106374579/173804987-8fe1b50e-66f0-4431-b8e4-16a23d4a56c8.gif" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173805352-624cfa83-445e-49f3-96f4-67fe70570e7d.gif" width="500" height="auto"/>
+
+`Predefined tags and allowed tag values`  |  `Custom metadata` 
+:---------------:|:-----------------:
+<img src="https://user-images.githubusercontent.com/106374579/173805724-b0696cb6-aab0-40ac-b6d9-5badf2d6ffc4.gif" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173805949-c6615d51-1912-4f4e-a261-6489ecaa1ef8.jpeg" width="500" height="auto"/>
+
+</div>
+
+<div align="center" markdown>
+
+### DESIGNED FOR PERFORMANCE
+# Optimized for scalable labeling
+Supervisely video labeling toolbox is packed with various optimizations and well-tuned for simultaneous annotation of hundreds of people.
+
+Live transcoding  |  Support of CDNs |   Cache & preloading 
+:---------------:|:-----------------:|:-----------------:
+<img src="https://user-images.githubusercontent.com/106374579/173807234-ade60f0b-c61c-4669-9272-b44176b6831c.png" width="auto" height="100"/> Browsers doesn’t support formats like avi or mov, but Supervisely does with on-fly video stream transcoding.  | <img src="https://user-images.githubusercontent.com/106374579/173807617-db6711dc-04ce-4a92-b7df-d0cee4dac07f.png" width="auto" height="100"/> Achieve millisecond loading timings with Cloudflare, Amazon CloudFront or Google Cloud CDN. | <img src="https://user-images.githubusercontent.com/106374579/173807705-c4b1908f-e82c-4dd6-a33a-c38018a73aac.png" width="auto" height="100"/> We have various settings to enable labeling even on slow computers and slow internet connection.
+
