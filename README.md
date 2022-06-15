@@ -9,7 +9,7 @@ Label hours-long videos without cutting them into images. In your browser, with 
 [![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=views&label=views)](https://supervise.ly)
 [![runs](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/image-labeling-tool-v2&counter=runs&label=runs&123)](https://supervise.ly)
 
-<img src="https://user-images.githubusercontent.com/106374579/173781629-3a239af3-33ad-4d64-b912-5d4b072b7c67.gif"/>
+<img src="https://user-images.githubusercontent.com/106374579/173814049-5128909b-bb72-4645-8c3b-e5b8cc3b0edc.gif"/>
 </div>
 
 <br/>
@@ -66,11 +66,11 @@ Choose between carefully picked state-of-the-art trackers or integrate your own 
 
 `Top AI tracking`  |  `Clone, interpolate and more` 
 :---------------:|:-----------------:
-<img src="https://user-images.githubusercontent.com/106374579/173787097-c0696cfa-3df7-4467-a3b4-35d64e56cdb3.gif" width="500" height="auto"/>  |   <img src="https://user-images.githubusercontent.com/106374579/173788099-73f23308-16b1-40c5-ba6f-c4689905ce40.png" width="500" height="auto" /> 
+<img src="https://user-images.githubusercontent.com/106374579/173814423-49d21cbd-f916-4bf9-913e-001ad2e1d560.gif" width="500" height="auto"/>  |   <img src="https://user-images.githubusercontent.com/106374579/173788099-73f23308-16b1-40c5-ba6f-c4689905ce40.png" width="500" height="auto" /> 
 
  `Train tracking AI` | 
  :---------------:
-<img src="https://user-images.githubusercontent.com/106374579/173790022-d3a05422-4247-44fd-8b7a-5459524d4fcf.gif" width="500" height="auto" />  
+<img src="https://user-images.githubusercontent.com/106374579/173815044-a0d10a6b-ca17-4095-b26b-7d08b031677c.gif" width="500" height="auto" />  
 </div>
 
 
@@ -80,7 +80,7 @@ Choose between carefully picked state-of-the-art trackers or integrate your own 
 
 Choose between carefully picked state-of-the-art trackers or integrate your own algorithm without any special knowledge.
 
-<img src="https://user-images.githubusercontent.com/106374579/173797415-660478f3-d948-4483-b579-0a93d26313d1.gif"/>  
+<img src="https://user-images.githubusercontent.com/106374579/173811682-d601fade-84a1-403c-967f-5e7c202249ef.gif"/>  
 
 
 ## Thought-out in every detail
@@ -90,7 +90,7 @@ While AI tracking algorithms can be of incredible help, there is still a lot of 
 
 `1000+ objects per frame`  |  `Copy and paste objects between frames` 
 :---------------:|:-----------------:
-<img src="https://user-images.githubusercontent.com/106374579/173798674-8bb7ba45-5d11-414f-9858-f141c2fa7525.gif" width="auto" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173802646-387fdb44-cb15-4646-90c2-388cb084a21a.gif" width="auto" height="auto"/>
+<img src="https://user-images.githubusercontent.com/106374579/173815380-f694e7a4-4454-4167-9dd4-5ec1ae5a31cf.gif" width="auto" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173802646-387fdb44-cb15-4646-90c2-388cb084a21a.gif" width="auto" height="auto"/>
 
 `Auto-clone selected object`  |  `Color highlighting of IDs` 
 :---------------:|:-----------------:
