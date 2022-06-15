@@ -21,6 +21,7 @@ Label hours-long videos without cutting them into images. In your browser, with 
 # Proper tools for flexible video labeling
 
 Supervisely offers the same set of handy annotation instruments from our image [labeling toolbox](https://supervise.ly/labeling-toolbox/images) — tailored to solved video specific task.
+
 <img src="https://user-images.githubusercontent.com/12828725/173542924-8cb6849d-e04a-468c-a8db-9e49e55ffe7b.gif" width="auto" height="400"/>
 
 </div>
@@ -48,3 +49,16 @@ It’s easy to get frustrated with thousands of frames and objects labeled.
 Video timeline panel provides overall structure, answers questions like what is already labeled and simplifies editing tag segments and tracked objects.
 
 <img src="https://user-images.githubusercontent.com/106374579/173784549-af19671d-0f7e-44c0-95ac-b407d959f3d4.png"/>
+
+<img src="https://user-images.githubusercontent.com/106374579/173785321-3a90fe96-4fbc-4145-aadb-8903118dc31b.png"/>
+
+### DESIGNED FOR TRACKING
+# Object tracking at scale
+Locate one or multiple objects of interest in each frame of your videos with built-in object tracking algorithms. Supervisely provides automated tools to assign a unique ID to each tracked object and produce accurate bounding boxes or even instance segmentation masks.
+
+
+## Top tracking AI: SOT & MOT
+
+Choose between carefully picked state-of-the-art trackers or integrate your own algorithm without any special knowledge.
+
+<img src= https://user-images.githubusercontent.com/106374579/173787097-c0696cfa-3df7-4467-a3b4-35d64e56cdb3.gif/>
