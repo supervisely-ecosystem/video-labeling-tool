@@ -90,11 +90,11 @@ While AI tracking algorithms can be of incredible help, there is still a lot of 
 
 `1000+ objects per frame`  |  `Copy and paste objects between frames` 
 :---------------:|:-----------------:
-<img src="https://user-images.githubusercontent.com/106374579/173798674-8bb7ba45-5d11-414f-9858-f141c2fa7525.gif" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173802646-387fdb44-cb15-4646-90c2-388cb084a21a.gif" width="500" height="auto"/>
+<img src="https://user-images.githubusercontent.com/106374579/173798674-8bb7ba45-5d11-414f-9858-f141c2fa7525.gif" width="auto" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173802646-387fdb44-cb15-4646-90c2-388cb084a21a.gif" width="auto" height="auto"/>
 
 `Auto-clone selected object`  |  `Color highlighting of IDs` 
 :---------------:|:-----------------:
-<img src="https://user-images.githubusercontent.com/106374579/173803297-6e1b03ec-9506-40b6-bb75-547f999ffec3.gif" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173803849-c31bc5a6-5bdf-43c9-843c-726b19b23905.gif" width="500" height="auto"/>
+<img src="https://user-images.githubusercontent.com/106374579/173803297-6e1b03ec-9506-40b6-bb75-547f999ffec3.gif" width="auto" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/173803849-c31bc5a6-5bdf-43c9-843c-726b19b23905.gif" width="auto" height="auto"/>
 
 </div>
 
@@ -122,5 +122,5 @@ Supervisely video labeling toolbox is packed with various optimizations and well
 
 Live transcoding  |  Support of CDNs |   Cache & preloading 
 :---------------:|:-----------------:|:-----------------:
-<img src="https://user-images.githubusercontent.com/106374579/173807234-ade60f0b-c61c-4669-9272-b44176b6831c.png" width="auto" height="100"/> Browsers doesn’t support formats like avi or mov, but Supervisely does with on-fly video stream transcoding.  | <img src="https://user-images.githubusercontent.com/106374579/173807617-db6711dc-04ce-4a92-b7df-d0cee4dac07f.png" width="auto" height="100"/> Achieve millisecond loading timings with Cloudflare, Amazon CloudFront or Google Cloud CDN. | <img src="https://user-images.githubusercontent.com/106374579/173807705-c4b1908f-e82c-4dd6-a33a-c38018a73aac.png" width="auto" height="100"/> We have various settings to enable labeling even on slow computers and slow internet connection.
+Browsers doesn’t support formats like avi or mov, but Supervisely does with on-fly video stream transcoding.  <img src="https://user-images.githubusercontent.com/106374579/173807234-ade60f0b-c61c-4669-9272-b44176b6831c.png" width="auto" height="100"/> |  Achieve millisecond loading timings with Cloudflare, Amazon CloudFront or Google Cloud CDN. <img src="https://user-images.githubusercontent.com/106374579/173807617-db6711dc-04ce-4a92-b7df-d0cee4dac07f.png" width="auto" height="100"/>| We have various settings to enable labeling even on slow computers and slow internet connection.<img src="https://user-images.githubusercontent.com/106374579/173807705-c4b1908f-e82c-4dd6-a33a-c38018a73aac.png" width="auto" height="100"/> 
 
