@@ -1,5 +1,6 @@
 {
   "name": "Video labeling tool",
+  "description": "complete solution for video annotation",
   "type": "annotation_tool",
   "annotation_tool_type": "videos_v3",
   "categories": [
