@@ -1,0 +1,21 @@
+{
+  "name": "Video labeling tool",
+  "type": "annotation_tool",
+  "annotation_tool_type": "videos_v3",
+  "categories": [
+    "neural network",
+    "videos",
+    "interactive segmentation",
+    "inference interfaces",
+    "annotation tool",
+    "labeling"
+  ],
+  "icon_background": "#FFFFFF",
+  "icon_cover": false,
+  "icon": "https://imgur.com/LHD0OCt.png",
+  "context_menu": {
+    "target": [
+      "videos_dataset"
+    ]
+  }
+}
