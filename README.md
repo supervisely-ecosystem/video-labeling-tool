@@ -8,8 +8,8 @@ Label hours-long videos without cutting them into images. In your browser, with 
  
 [![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/video-labeling-tool)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/video-labeling-tool&counter=views&label=views)](https://supervise.ly)
-[![runs](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/video-labeling-tool&counter=runs&label=runs&123)](https://supervise.ly)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/video-labeling-tool)](https://supervise.ly)
+[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/video-labeling-tool)](https://supervise.ly)
 
 <img src="https://user-images.githubusercontent.com/106374579/173814049-5128909b-bb72-4645-8c3b-e5b8cc3b0edc.gif"/>
 </div>
