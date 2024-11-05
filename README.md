@@ -3,13 +3,13 @@
 # Video labeling tool
 ## A complete solution for video annotation
 
-Label hours-long videos without cutting them into images. In your browser, with multi-track timeline, built-in object tracking and segments tagging tools. [Learn more ➡️](https://supervise.ly/labeling-toolbox/videos)
+Label hours-long videos without cutting them into images. In your browser, with multi-track timeline, built-in object tracking and segments tagging tools. [Learn more ➡️](https://supervisely.com/labeling-toolbox/videos)
 
  
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/video-labeling-tool)
-[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/video-labeling-tool.png)](https://supervise.ly)
-[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/video-labeling-tool.png)](https://supervise.ly)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/video-labeling-tool)
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/video-labeling-tool.png)](https://supervisely.com)
+[![runs](https://app.supervisely.com/img/badges/runs/supervisely-ecosystem/video-labeling-tool.png)](https://supervisely.com)
 
 <img src="https://user-images.githubusercontent.com/106374579/173814049-5128909b-bb72-4645-8c3b-e5b8cc3b0edc.gif"/>
 </div>
@@ -22,7 +22,7 @@ Label hours-long videos without cutting them into images. In your browser, with 
 ### FOR ANY TYPE OF ANNOTATION
 # Proper tools for flexible video labeling
 
-Supervisely offers the same set of handy annotation instruments from our image [labeling toolbox](https://supervise.ly/labeling-toolbox/images) — tailored to solved video specific task.
+Supervisely offers the same set of handy annotation instruments from our image [labeling toolbox](https://supervisely.com/labeling-toolbox/images) — tailored to solved video specific task.
 
 <img src="https://user-images.githubusercontent.com/12828725/173542924-8cb6849d-e04a-468c-a8db-9e49e55ffe7b.gif" width="auto" height="400"/>
 
@@ -151,7 +151,7 @@ While AI tracking algorithms can be of incredible help, there is still a lot of 
 Apart from usual tools like rectangle or brush, Supervisely comes with “smart” labeling tools based on a collection of class-agnostic neural networks that can be further trained on your data.
 
 
-[Learn more ➡️](https://supervise.ly/labeling-automation/ai-assisted-labeling)
+[Learn more ➡️](https://supervisely.com/labeling-automation/ai-assisted-labeling)
 
 <img src="https://user-images.githubusercontent.com/12828725/173544099-d8c273d0-a31d-4455-b83e-8f3d8cd3d0a4.gif"/>
 
